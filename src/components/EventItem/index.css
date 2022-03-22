@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.event-card {
+  display: flex;
+  flex-direction: column;
+
+  width: 40%;
+  max-width: 300px;
+
+  padding: 10px;
+  margin: auto;
+}
+.image-button {
+  border-radius: 5px;
+}
+.event-card-image {
+  width: 100%;
+}
